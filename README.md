@@ -2,7 +2,7 @@
 
 ### 🚀 Desarrolladora en formación | Buscando Prácticas
 
-Actualmente, estoy cursando un superior de Desarrollo de Aplicaciones Multiplataforma (DAM) y un bootcamp en análisis de datos en Ironhack. Acabo de finalizar un curso especializado de 350 horas en desarrollo de aplicaciones móviles con **Kotlin** y **Swift**.
+Actualmente, estoy cursando un superior de Desarrollo de Aplicaciones Multiplataforma (DAM) y un bootcamp en análisis de datos en Ironhack. He finalizado recientemente un curso especializado de 350 horas en desarrollo de aplicaciones móviles con **Kotlin** y **Swift**.
 
 Estoy en constante aprendizaje y desarrollo de proyectos para mejorar mis habilidades técnicas, siempre buscando nuevos retos que me ayuden a crecer profesionalmente.
 
@@ -11,7 +11,7 @@ Estoy en constante aprendizaje y desarrollo de proyectos para mejorar mis habili
 Este repositorio contiene proyectos en **beta** que estoy desarrollando como parte de diferentes laboratorios y ejercicios prácticos. Algunos de ellos incluyen:
 
 - **Escape Room en Python**: Un juego interactivo desarrollado desde cero, aplicando lógica de programación, manejo de datos y resolución de problemas.
-- **Manejo de Cuentas Bancarias**: Implementación de un sistema de cuentas corrientes y de ahorro utilizando programación orientada a objetos (OOP).
+- **Manejo de Cuentas Bancarias**: Implementación de un sistema de cuentas corrientes y de ahorro utilizando programación orientada a objetos (**OOP**).
 - **Análisis de Datos**: Laboratorios que exploran el uso de **Python** para el análisis y visualización de datos.
 
 ### 🛠️ Tecnologías que uso

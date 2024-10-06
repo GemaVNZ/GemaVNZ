@@ -1,6 +1,6 @@
 # ¡Hola! Soy Gema Villena 👋
 
-### 🚀 Desarrolladora en formación | Buscando Prácticas
+### 🚀 Desarrolladora en formación 
 
 Actualmente, estoy cursando un superior de Desarrollo de Aplicaciones Multiplataforma (DAM) y un bootcamp en análisis de datos en Ironhack. He finalizado recientemente un curso especializado de 350 horas en desarrollo de aplicaciones móviles con **Kotlin** y **Swift**.
 
